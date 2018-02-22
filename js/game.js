@@ -1,6 +1,3 @@
-// Do poczytanie o getImageData
-// https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D#getImageData()
-
 // Inicjuję grę dopiero po załadowaniu całej strony
 window.onload = function() {
         Game.init();
